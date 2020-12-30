@@ -1,0 +1,1 @@
+This folder contains the raw data. This is the unaltered and untouched main data that is going to be processed and used for the project.

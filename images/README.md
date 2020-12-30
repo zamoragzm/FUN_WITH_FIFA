@@ -1,0 +1,1 @@
+This folder contains all the images that are going to be gotten from the analysis that are conducted.
